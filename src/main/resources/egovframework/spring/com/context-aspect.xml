@@ -26,8 +26,7 @@
 		</property>
 		<property name="patterns">
 			<list>
-<!-- 				<value>**service.impl.*</value> -->
-                <value>**web.*</value>
+				<value>**service.impl.*</value>
 			</list>
 		</property>
 		<property name="handlers">
